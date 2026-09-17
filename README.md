@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas que estou aprendendo
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,github,docker,supabase,vercel,vscode" alt="Tech Stack Icons" />
